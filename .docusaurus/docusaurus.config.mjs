@@ -53,11 +53,6 @@ export default {
           "label": "Anotações"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/daienelima/",
           "label": "GitHub",
           "position": "right"
