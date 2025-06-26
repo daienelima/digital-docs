@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://daienelima.github.io',
   baseUrl: '/digital-docs/',
-  organizationName: 'seu-daienelima',
+  organizationName: 'daienelima',
   projectName: 'digital-docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
