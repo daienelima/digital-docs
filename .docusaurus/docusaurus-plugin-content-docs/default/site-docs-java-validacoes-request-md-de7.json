@@ -1,0 +1,23 @@
+{
+  "id": "java/validacoes-request",
+  "title": "Validações de Request",
+  "description": "Este guia mostra como aplicar validações automáticas em campos do corpo da requisição (DTOs) usando Jakarta Bean Validation no Spring Boot. Inclui campos comuns, datas, formatos personalizados e validações condicionais.",
+  "source": "@site/docs/java/validacoes-request.md",
+  "sourceDirName": "java",
+  "slug": "/java/validacoes-request",
+  "permalink": "/digital-docs/docs/java/validacoes-request",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Programação Orientada a Objetos (POO)",
+    "permalink": "/digital-docs/docs/java/oop"
+  },
+  "next": {
+    "title": "MapStruct",
+    "permalink": "/digital-docs/docs/java/mapstruct"
+  }
+}
