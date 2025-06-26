@@ -2,15 +2,31 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'AWS',
-      items: ['aws/vpc'],
+      label: 'Clouds',
+      items: [
+        {
+          type: 'category',
+          label: 'AWS',
+          items: [
+            'clouds/aws/introducao-aws',
+            'clouds/aws/vpc',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Azure',
+          items: [
+            'clouds/azure/introducao-azure',
+          ],
+        },
+      ],
     },
     {
       type: 'category',
       label: 'Java',
-      items: ['java/oop',
-              'java/validacoes-request',
-              'java/mapstruct',
+      items: [
+        'java/validacoes-request',
+        'java/mapstruct',
       ],
     },
   ],

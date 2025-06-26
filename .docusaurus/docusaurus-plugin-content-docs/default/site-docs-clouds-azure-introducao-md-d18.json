@@ -1,0 +1,28 @@
+{
+  "id": "clouds/azure/introducao-azure",
+  "title": "Introdução à Azure",
+  "description": "Microsoft Azure é uma plataforma de computação em nuvem da Microsoft com foco em serviços PaaS, IaaS e SaaS.",
+  "source": "@site/docs/clouds/azure/introducao.md",
+  "sourceDirName": "clouds/azure",
+  "slug": "/clouds/azure/introducao-azure",
+  "permalink": "/digital-docs/docs/clouds/azure/introducao-azure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "introducao-azure",
+    "title": "Introdução à Azure",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VPC - Virtual Private Cloud",
+    "permalink": "/digital-docs/docs/clouds/aws/vpc"
+  },
+  "next": {
+    "title": "Validações de Request",
+    "permalink": "/digital-docs/docs/java/validacoes-request"
+  }
+}

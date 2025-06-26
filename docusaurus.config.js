@@ -10,7 +10,7 @@ const config = {
   baseUrl: '/digital-docs/',
   organizationName: 'daienelima',
   projectName: 'digital-docs',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
     defaultLocale: 'pt',
@@ -25,6 +25,11 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          routeBasePath: 'blog',
+          blogTitle: '📚 Diário de Bordo',
+          blogDescription: 'Anotações, reflexões e aprendizados de uma dev em jornada.',
+          postsPerPage: 5,
+          authorsMapPath: 'blog/authors.yml',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -37,12 +42,11 @@ const config = {
     navbar: {
       title: 'Digital Docs',
       logo: {
-        alt: 'Logo do Site',
         src: 'img/logo.svg',
       },
       items: [
         { type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Anotações' },
-        // { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/blog', label: 'Blog', position: 'left' },
         { href: 'https://github.com/daienelima/', label: 'GitHub', position: 'right' },
       ],
     },

@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Programação Orientada a Objetos (POO)",
-    "permalink": "/digital-docs/docs/java/oop"
+    "title": "Introdução à Azure",
+    "permalink": "/digital-docs/docs/clouds/azure/introducao-azure"
   },
   "next": {
     "title": "MapStruct",

@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "VPC - Virtual Private Cloud",
-    "permalink": "/digital-docs/docs/aws/vpc"
+    "title": "Introdução à Azure",
+    "permalink": "/digital-docs/docs/clouds/azure/introducao-azure"
   },
   "next": {
     "title": "Validações de Request",

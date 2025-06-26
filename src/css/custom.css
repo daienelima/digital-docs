@@ -15,3 +15,20 @@ html[data-theme='dark'] {
   --ifm-code-background: #44475a;
   --ifm-code-color: #f8f8f2;
 }
+
+article header h1 {
+  font-size: 2.2rem;
+  color: #a78bfa;
+  font-weight: 800;
+}
+
+article p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #d1d5db;
+}
+
+article img {
+  border-radius: 12px;
+  margin: 1rem 0;
+}

@@ -8,21 +8,26 @@
           "label": "Next",
           "isLast": true,
           "path": "/digital-docs/docs",
-          "mainDocId": "aws/vpc",
+          "mainDocId": "clouds/aws/introducao-aws",
           "docs": [
             {
-              "id": "aws/vpc",
-              "path": "/digital-docs/docs/aws/vpc",
+              "id": "clouds/aws/introducao-aws",
+              "path": "/digital-docs/docs/clouds/aws/introducao-aws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/aws/vpc",
+              "path": "/digital-docs/docs/clouds/aws/vpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/azure/introducao-azure",
+              "path": "/digital-docs/docs/clouds/azure/introducao-azure",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "java/mapstruct",
               "path": "/digital-docs/docs/java/mapstruct",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "java/oop",
-              "path": "/digital-docs/docs/java/oop",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -35,8 +40,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/digital-docs/docs/aws/vpc",
-                "label": "aws/vpc"
+                "path": "/digital-docs/docs/clouds/aws/introducao-aws",
+                "label": "clouds/aws/introducao-aws"
               }
             }
           }

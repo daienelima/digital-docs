@@ -1,0 +1,23 @@
+{
+  "id": "clouds/aws/vpc",
+  "title": "VPC - Virtual Private Cloud",
+  "description": "Uma VPC é uma rede virtual dedicada dentro da AWS. Permite isolar recursos, controlar sub-redes públicas e privadas, e configurar rotas e gateways.",
+  "source": "@site/docs/clouds/aws/vpc.md",
+  "sourceDirName": "clouds/aws",
+  "slug": "/clouds/aws/vpc",
+  "permalink": "/digital-docs/docs/clouds/aws/vpc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introdução à AWS",
+    "permalink": "/digital-docs/docs/clouds/aws/introducao-aws"
+  },
+  "next": {
+    "title": "Introdução à Azure",
+    "permalink": "/digital-docs/docs/clouds/azure/introducao-azure"
+  }
+}
