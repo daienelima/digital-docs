@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_docs=self.webpackChunkdigital_docs||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/digital-docs/blog","blogTitle":"\ud83d\udcda Di\xe1rio de Bordo","authorsListPath":"/digital-docs/blog/authors"}')}}]);

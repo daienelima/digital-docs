@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://daienelima.github.io/digital-docs/blog</id>
+    <title>Digital Docs Blog</title>
+    <updated>2025-06-26T20:31:10.871Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://daienelima.github.io/digital-docs/blog"/>
+    <subtitle>Digital Docs Blog</subtitle>
+    <icon>https://daienelima.github.io/digital-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🌟 Meu Primeiro Post no Blog]]></title>
+        <id>https://daienelima.github.io/digital-docs/blog/primeiro-post</id>
+        <link href="https://daienelima.github.io/digital-docs/blog/primeiro-post"/>
+        <updated>2025-06-26T20:31:10.871Z</updated>
+        <summary type="html"><![CDATA[Compartilhando minha jornada como dev Java e arquiteta de soluções.]]></summary>
+        <content type="html"><![CDATA[<p>Hoje começo meu blog técnico com muita empolgação 🚀</p>
+<p>Aqui vou registrar experiências, aprendizados e boas práticas que uso no dia a dia como desenvolvedora Java, backend, cloud, arquitetura e muito mais!</p>
+<p>Fique à vontade para acompanhar os posts 💜</p>]]></content>
+        <author>
+            <name>Daiene Lima</name>
+            <uri>https://github.com/daienelima</uri>
+        </author>
+        <category label="início" term="início"/>
+        <category label="diário" term="diário"/>
+        <category label="desenvolvimento" term="desenvolvimento"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_docs=self.webpackChunkdigital_docs||[]).push([[385],{1848:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/digital-docs/blog","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Anota\xe7\xf5es, reflex\xf5es e aprendizados de uma dev em jornada.","blogTitle":"\ud83d\udcda Di\xe1rio de Bordo"}}')}}]);
