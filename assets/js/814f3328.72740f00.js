@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_docs=self.webpackChunkdigital_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83c\udf1f Meu Primeiro Post no Blog","permalink":"/digital-docs/blog/primeiro-post","unlisted":false,"date":"2025-06-26T20:31:10.871Z"}]}')}}]);
