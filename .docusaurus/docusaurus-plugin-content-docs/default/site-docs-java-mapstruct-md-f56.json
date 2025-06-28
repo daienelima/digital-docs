@@ -1,7 +1,7 @@
 {
   "id": "java/mapstruct",
-  "title": "MapStruct",
-  "description": "O MapStruct é um framework Java para mapeamento de objetos (beans) que permite transformar entidades em DTOs e vice-versa de forma eficiente, segura e com geração de código em tempo de compilação.",
+  "title": "MapStruct - Guia Completo",
+  "description": "📌 Introdução",
   "source": "@site/docs/java/mapstruct.md",
   "sourceDirName": "java",
   "slug": "/java/mapstruct",

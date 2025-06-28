@@ -1,0 +1,14 @@
+{
+  "id": "java/mapstruct1",
+  "title": "MapStruct - Guia Completo",
+  "description": "📌 Introdução",
+  "source": "@site/docs/java/mapstruct1.md",
+  "sourceDirName": "java",
+  "slug": "/java/mapstruct1",
+  "permalink": "/digital-docs/docs/java/mapstruct1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
