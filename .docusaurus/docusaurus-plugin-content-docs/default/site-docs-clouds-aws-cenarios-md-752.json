@@ -1,0 +1,14 @@
+{
+  "id": "clouds/aws/cenarios",
+  "title": "Resumo de Cenários – Quando Usar Cada Serviço AWS (SAA-C03)",
+  "description": "📦 Armazenamento",
+  "source": "@site/docs/clouds/aws/cenarios.md",
+  "sourceDirName": "clouds/aws",
+  "slug": "/clouds/aws/cenarios",
+  "permalink": "/digital-docs/docs/clouds/aws/cenarios",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

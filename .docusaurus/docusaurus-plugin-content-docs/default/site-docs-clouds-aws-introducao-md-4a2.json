@@ -17,6 +17,10 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS SAA-C03",
+    "permalink": "/digital-docs/docs/clouds/aws/plano-estudo-saa-c03"
+  },
   "next": {
     "title": "VPC - Virtual Private Cloud",
     "permalink": "/digital-docs/docs/clouds/aws/vpc"

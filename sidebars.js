@@ -8,6 +8,7 @@ module.exports = {
           type: 'category',
           label: 'AWS',
           items: [
+            'clouds/aws/plano-estudo-saa-c03',
             'clouds/aws/introducao-aws',
             'clouds/aws/vpc',
           ],
@@ -16,6 +17,9 @@ module.exports = {
           type: 'category',
           label: 'Azure',
           items: [
+            'clouds/azure/plano-estudo-az-900',
+            'clouds/azure/plano-estudo-dp-900',
+            'clouds/azure/plano-estudo-az-204',
             'clouds/azure/introducao-azure',
           ],
         },

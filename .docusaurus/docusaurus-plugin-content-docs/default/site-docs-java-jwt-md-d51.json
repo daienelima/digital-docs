@@ -1,0 +1,14 @@
+{
+  "id": "java/jwt",
+  "title": "JSON Web Token (JWT)",
+  "description": "📦 Estrutura de um JWT",
+  "source": "@site/docs/java/jwt.md",
+  "sourceDirName": "java",
+  "slug": "/java/jwt",
+  "permalink": "/digital-docs/docs/java/jwt",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

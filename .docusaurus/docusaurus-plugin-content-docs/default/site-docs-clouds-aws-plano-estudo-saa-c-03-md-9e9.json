@@ -1,0 +1,23 @@
+{
+  "id": "clouds/aws/plano-estudo-saa-c03",
+  "title": "Plano de Estudo – AWS SAA-C03",
+  "description": "🎯 Objetivo",
+  "source": "@site/docs/clouds/aws/plano-estudo-saa-c03.md",
+  "sourceDirName": "clouds/aws",
+  "slug": "/clouds/aws/plano-estudo-saa-c03",
+  "permalink": "/digital-docs/docs/clouds/aws/plano-estudo-saa-c03",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plano-estudo-saa-c03",
+    "title": "Plano de Estudo – AWS SAA-C03",
+    "sidebar_label": "AWS SAA-C03"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introdução à AWS",
+    "permalink": "/digital-docs/docs/clouds/aws/introducao-aws"
+  }
+}

@@ -79,19 +79,30 @@ export default [
   },
   {
     path: '/digital-docs/docs',
-    component: ComponentCreator('/digital-docs/docs', '40e'),
+    component: ComponentCreator('/digital-docs/docs', 'f89'),
     routes: [
       {
         path: '/digital-docs/docs',
-        component: ComponentCreator('/digital-docs/docs', '53c'),
+        component: ComponentCreator('/digital-docs/docs', 'bad'),
         routes: [
           {
             path: '/digital-docs/docs',
-            component: ComponentCreator('/digital-docs/docs', '027'),
+            component: ComponentCreator('/digital-docs/docs', 'd39'),
             routes: [
+              {
+                path: '/digital-docs/docs/clouds/aws/cenarios',
+                component: ComponentCreator('/digital-docs/docs/clouds/aws/cenarios', '013'),
+                exact: true
+              },
               {
                 path: '/digital-docs/docs/clouds/aws/introducao-aws',
                 component: ComponentCreator('/digital-docs/docs/clouds/aws/introducao-aws', '62d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/digital-docs/docs/clouds/aws/plano-estudo-saa-c03',
+                component: ComponentCreator('/digital-docs/docs/clouds/aws/plano-estudo-saa-c03', 'dcc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -106,6 +117,29 @@ export default [
                 component: ComponentCreator('/digital-docs/docs/clouds/azure/introducao-azure', '334'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/digital-docs/docs/clouds/azure/plano-estudo-az-204',
+                component: ComponentCreator('/digital-docs/docs/clouds/azure/plano-estudo-az-204', '206'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/digital-docs/docs/clouds/azure/plano-estudo-az-900',
+                component: ComponentCreator('/digital-docs/docs/clouds/azure/plano-estudo-az-900', 'be2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/digital-docs/docs/clouds/azure/plano-estudo-dp-900',
+                component: ComponentCreator('/digital-docs/docs/clouds/azure/plano-estudo-dp-900', 'f57'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/digital-docs/docs/java/jwt',
+                component: ComponentCreator('/digital-docs/docs/java/jwt', 'ef9'),
+                exact: true
               },
               {
                 path: '/digital-docs/docs/java/mapstruct',

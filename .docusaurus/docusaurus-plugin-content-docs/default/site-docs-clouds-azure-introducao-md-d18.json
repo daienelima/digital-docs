@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "VPC - Virtual Private Cloud",
-    "permalink": "/digital-docs/docs/clouds/aws/vpc"
+    "title": "AZ-204",
+    "permalink": "/digital-docs/docs/clouds/azure/plano-estudo-az-204"
   },
   "next": {
     "title": "Validações de Request",

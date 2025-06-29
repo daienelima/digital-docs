@@ -1,0 +1,27 @@
+{
+  "id": "clouds/azure/plano-estudo-az-900",
+  "title": "Plano de Estudo – AZ-900",
+  "description": "🎯 Objetivo",
+  "source": "@site/docs/clouds/azure/plano-estudo-az-900.md",
+  "sourceDirName": "clouds/azure",
+  "slug": "/clouds/azure/plano-estudo-az-900",
+  "permalink": "/digital-docs/docs/clouds/azure/plano-estudo-az-900",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plano-estudo-az-900",
+    "title": "Plano de Estudo – AZ-900",
+    "sidebar_label": "AZ-900"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VPC - Virtual Private Cloud",
+    "permalink": "/digital-docs/docs/clouds/aws/vpc"
+  },
+  "next": {
+    "title": "DP-900",
+    "permalink": "/digital-docs/docs/clouds/azure/plano-estudo-dp-900"
+  }
+}

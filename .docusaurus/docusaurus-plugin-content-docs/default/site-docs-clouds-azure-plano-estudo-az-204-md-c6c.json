@@ -1,0 +1,27 @@
+{
+  "id": "clouds/azure/plano-estudo-az-204",
+  "title": "Plano de Estudo – AZ-204",
+  "description": "🎯 Objetivo",
+  "source": "@site/docs/clouds/azure/plano-estudo-az-204.md",
+  "sourceDirName": "clouds/azure",
+  "slug": "/clouds/azure/plano-estudo-az-204",
+  "permalink": "/digital-docs/docs/clouds/azure/plano-estudo-az-204",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plano-estudo-az-204",
+    "title": "Plano de Estudo – AZ-204",
+    "sidebar_label": "AZ-204"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DP-900",
+    "permalink": "/digital-docs/docs/clouds/azure/plano-estudo-dp-900"
+  },
+  "next": {
+    "title": "Introdução à Azure",
+    "permalink": "/digital-docs/docs/clouds/azure/introducao-azure"
+  }
+}

@@ -8,11 +8,20 @@
           "label": "Next",
           "isLast": true,
           "path": "/digital-docs/docs",
-          "mainDocId": "clouds/aws/introducao-aws",
+          "mainDocId": "clouds/aws/plano-estudo-saa-c03",
           "docs": [
+            {
+              "id": "clouds/aws/cenarios",
+              "path": "/digital-docs/docs/clouds/aws/cenarios"
+            },
             {
               "id": "clouds/aws/introducao-aws",
               "path": "/digital-docs/docs/clouds/aws/introducao-aws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/aws/plano-estudo-saa-c03",
+              "path": "/digital-docs/docs/clouds/aws/plano-estudo-saa-c03",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -24,6 +33,25 @@
               "id": "clouds/azure/introducao-azure",
               "path": "/digital-docs/docs/clouds/azure/introducao-azure",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/azure/plano-estudo-az-204",
+              "path": "/digital-docs/docs/clouds/azure/plano-estudo-az-204",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/azure/plano-estudo-az-900",
+              "path": "/digital-docs/docs/clouds/azure/plano-estudo-az-900",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/azure/plano-estudo-dp-900",
+              "path": "/digital-docs/docs/clouds/azure/plano-estudo-dp-900",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "java/jwt",
+              "path": "/digital-docs/docs/java/jwt"
             },
             {
               "id": "java/mapstruct",
@@ -40,8 +68,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/digital-docs/docs/clouds/aws/introducao-aws",
-                "label": "clouds/aws/introducao-aws"
+                "path": "/digital-docs/docs/clouds/aws/plano-estudo-saa-c03",
+                "label": "clouds/aws/plano-estudo-saa-c03"
               }
             }
           }

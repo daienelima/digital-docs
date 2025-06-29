@@ -127,22 +127,30 @@
     ],
     "__props": "__props---digital-docs-blog-tags-inicio-6-d-9-72f"
   },
-  "/digital-docs/docs-40e": {
+  "/digital-docs/docs-f89": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---digital-docs-docsaba-d4a"
     }
   },
-  "/digital-docs/docs-53c": {
+  "/digital-docs/docs-bad": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---digital-docs-docs-4-eb-298"
   },
-  "/digital-docs/docs-027": {
+  "/digital-docs/docs-d39": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/digital-docs/docs/clouds/aws/cenarios-013": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-aws-cenarios-752-84e"
   },
   "/digital-docs/docs/clouds/aws/introducao-aws-62d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---digital-docs-docs-clouds-aws-introducao-aws-4-a-2-35b"
+  },
+  "/digital-docs/docs/clouds/aws/plano-estudo-saa-c03-dcc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-aws-plano-estudo-saa-c-039-e-9-74c"
   },
   "/digital-docs/docs/clouds/aws/vpc-2f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -151,6 +159,22 @@
   "/digital-docs/docs/clouds/azure/introducao-azure-334": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---digital-docs-docs-clouds-azure-introducao-azured-18-005"
+  },
+  "/digital-docs/docs/clouds/azure/plano-estudo-az-204-206": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-azure-plano-estudo-az-204-c-6-c-c20"
+  },
+  "/digital-docs/docs/clouds/azure/plano-estudo-az-900-be2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-azure-plano-estudo-az-900029-058"
+  },
+  "/digital-docs/docs/clouds/azure/plano-estudo-dp-900-f57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-azure-plano-estudo-dp-900525-d20"
+  },
+  "/digital-docs/docs/java/jwt-ef9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-java-jwtd-51-307"
   },
   "/digital-docs/docs/java/mapstruct-8da": {
     "__comp": "__comp---theme-doc-item-178-a40",
