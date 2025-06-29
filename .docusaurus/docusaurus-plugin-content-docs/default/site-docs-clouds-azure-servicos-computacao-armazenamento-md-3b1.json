@@ -1,0 +1,27 @@
+{
+  "id": "clouds/azure/servicos-computacao-armazenamento",
+  "title": "Serviços de Computação e Armazenamento no Azure",
+  "description": "Serviços de Computação no Azure",
+  "source": "@site/docs/clouds/azure/servicos-computacao-armazenamento.md",
+  "sourceDirName": "clouds/azure",
+  "slug": "/clouds/azure/servicos-computacao-armazenamento",
+  "permalink": "/digital-docs/docs/clouds/azure/servicos-computacao-armazenamento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "servicos-computacao-armazenamento",
+    "title": "Serviços de Computação e Armazenamento no Azure",
+    "sidebar_label": "Computação e Armazenamento"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AZ-204",
+    "permalink": "/digital-docs/docs/clouds/azure/plano-estudo-az-204"
+  },
+  "next": {
+    "title": "Validações de Request",
+    "permalink": "/digital-docs/docs/java/validacoes-request"
+  }
+}

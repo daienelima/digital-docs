@@ -20,7 +20,7 @@ module.exports = {
             'clouds/azure/plano-estudo-az-900',
             'clouds/azure/plano-estudo-dp-900',
             'clouds/azure/plano-estudo-az-204',
-            'clouds/azure/introducao-azure',
+           'clouds/azure/servicos-computacao-armazenamento',
           ],
         },
       ],

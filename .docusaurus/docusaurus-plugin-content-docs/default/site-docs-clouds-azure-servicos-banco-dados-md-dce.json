@@ -1,0 +1,18 @@
+{
+  "id": "clouds/azure/servicos-banco-dados",
+  "title": "Serviços de Banco de Dados no Azure",
+  "description": "Serviços de Banco de Dados no Azure",
+  "source": "@site/docs/clouds/azure/servicos-banco-dados.md",
+  "sourceDirName": "clouds/azure",
+  "slug": "/clouds/azure/servicos-banco-dados",
+  "permalink": "/digital-docs/docs/clouds/azure/servicos-banco-dados",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "servicos-banco-dados",
+    "title": "Serviços de Banco de Dados no Azure",
+    "sidebar_label": "Banco de Dados"
+  }
+}

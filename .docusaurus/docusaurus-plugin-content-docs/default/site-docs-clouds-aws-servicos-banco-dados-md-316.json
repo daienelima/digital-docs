@@ -1,0 +1,18 @@
+{
+  "id": "clouds/aws/servicos-banco-dados",
+  "title": "Serviços de Banco de Dados na AWS",
+  "description": "Serviços de Banco de Dados na AWS",
+  "source": "@site/docs/clouds/aws/servicos-banco-dados.md",
+  "sourceDirName": "clouds/aws",
+  "slug": "/clouds/aws/servicos-banco-dados",
+  "permalink": "/digital-docs/docs/clouds/aws/servicos-banco-dados",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "servicos-banco-dados",
+    "title": "Serviços de Banco de Dados na AWS",
+    "sidebar_label": "Banco de Dados"
+  }
+}

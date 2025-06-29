@@ -15,6 +15,10 @@
               "path": "/digital-docs/docs/clouds/aws/cenarios"
             },
             {
+              "id": "clouds/aws/devops-e-monitoramento",
+              "path": "/digital-docs/docs/clouds/aws/devops-e-monitoramento"
+            },
+            {
               "id": "clouds/aws/introducao-aws",
               "path": "/digital-docs/docs/clouds/aws/introducao-aws",
               "sidebar": "tutorialSidebar"
@@ -25,14 +29,25 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "clouds/aws/servicos-banco-dados",
+              "path": "/digital-docs/docs/clouds/aws/servicos-banco-dados"
+            },
+            {
+              "id": "clouds/aws/servicos-computacao-armazenamento",
+              "path": "/digital-docs/docs/clouds/aws/servicos-computacao-armazenamento"
+            },
+            {
+              "id": "clouds/aws/servicos-rede",
+              "path": "/digital-docs/docs/clouds/aws/servicos-rede"
+            },
+            {
               "id": "clouds/aws/vpc",
               "path": "/digital-docs/docs/clouds/aws/vpc",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "clouds/azure/introducao-azure",
-              "path": "/digital-docs/docs/clouds/azure/introducao-azure",
-              "sidebar": "tutorialSidebar"
+              "id": "clouds/azure/devops-e-monitoramento",
+              "path": "/digital-docs/docs/clouds/azure/devops-e-monitoramento"
             },
             {
               "id": "clouds/azure/plano-estudo-az-204",
@@ -48,6 +63,19 @@
               "id": "clouds/azure/plano-estudo-dp-900",
               "path": "/digital-docs/docs/clouds/azure/plano-estudo-dp-900",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/azure/servicos-banco-dados",
+              "path": "/digital-docs/docs/clouds/azure/servicos-banco-dados"
+            },
+            {
+              "id": "clouds/azure/servicos-computacao-armazenamento",
+              "path": "/digital-docs/docs/clouds/azure/servicos-computacao-armazenamento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clouds/azure/servicos-rede",
+              "path": "/digital-docs/docs/clouds/azure/servicos-rede"
             },
             {
               "id": "java/jwt",

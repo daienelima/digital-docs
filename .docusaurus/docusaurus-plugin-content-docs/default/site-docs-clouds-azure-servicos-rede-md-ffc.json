@@ -1,0 +1,18 @@
+{
+  "id": "clouds/azure/servicos-rede",
+  "title": "Serviços de Rede no Azure",
+  "description": "Serviços de Rede no Azure",
+  "source": "@site/docs/clouds/azure/servicos-rede.md",
+  "sourceDirName": "clouds/azure",
+  "slug": "/clouds/azure/servicos-rede",
+  "permalink": "/digital-docs/docs/clouds/azure/servicos-rede",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "servicos-rede",
+    "title": "Serviços de Rede no Azure",
+    "sidebar_label": "Rede"
+  }
+}

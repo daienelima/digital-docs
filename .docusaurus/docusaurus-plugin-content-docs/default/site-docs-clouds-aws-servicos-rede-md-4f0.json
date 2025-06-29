@@ -1,0 +1,18 @@
+{
+  "id": "clouds/aws/servicos-rede",
+  "title": "Serviços de Rede na AWS",
+  "description": "Serviços de Rede na AWS",
+  "source": "@site/docs/clouds/aws/servicos-rede.md",
+  "sourceDirName": "clouds/aws",
+  "slug": "/clouds/aws/servicos-rede",
+  "permalink": "/digital-docs/docs/clouds/aws/servicos-rede",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "servicos-rede",
+    "title": "Serviços de Rede na AWS",
+    "sidebar_label": "Rede"
+  }
+}

@@ -79,19 +79,24 @@ export default [
   },
   {
     path: '/digital-docs/docs',
-    component: ComponentCreator('/digital-docs/docs', 'f89'),
+    component: ComponentCreator('/digital-docs/docs', '81d'),
     routes: [
       {
         path: '/digital-docs/docs',
-        component: ComponentCreator('/digital-docs/docs', 'bad'),
+        component: ComponentCreator('/digital-docs/docs', '942'),
         routes: [
           {
             path: '/digital-docs/docs',
-            component: ComponentCreator('/digital-docs/docs', 'd39'),
+            component: ComponentCreator('/digital-docs/docs', '27a'),
             routes: [
               {
                 path: '/digital-docs/docs/clouds/aws/cenarios',
                 component: ComponentCreator('/digital-docs/docs/clouds/aws/cenarios', '013'),
+                exact: true
+              },
+              {
+                path: '/digital-docs/docs/clouds/aws/devops-e-monitoramento',
+                component: ComponentCreator('/digital-docs/docs/clouds/aws/devops-e-monitoramento', 'c3e'),
                 exact: true
               },
               {
@@ -107,16 +112,30 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/digital-docs/docs/clouds/aws/servicos-banco-dados',
+                component: ComponentCreator('/digital-docs/docs/clouds/aws/servicos-banco-dados', '919'),
+                exact: true
+              },
+              {
+                path: '/digital-docs/docs/clouds/aws/servicos-computacao-armazenamento',
+                component: ComponentCreator('/digital-docs/docs/clouds/aws/servicos-computacao-armazenamento', '740'),
+                exact: true
+              },
+              {
+                path: '/digital-docs/docs/clouds/aws/servicos-rede',
+                component: ComponentCreator('/digital-docs/docs/clouds/aws/servicos-rede', '85d'),
+                exact: true
+              },
+              {
                 path: '/digital-docs/docs/clouds/aws/vpc',
                 component: ComponentCreator('/digital-docs/docs/clouds/aws/vpc', '2f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/digital-docs/docs/clouds/azure/introducao-azure',
-                component: ComponentCreator('/digital-docs/docs/clouds/azure/introducao-azure', '334'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                path: '/digital-docs/docs/clouds/azure/devops-e-monitoramento',
+                component: ComponentCreator('/digital-docs/docs/clouds/azure/devops-e-monitoramento', 'eee'),
+                exact: true
               },
               {
                 path: '/digital-docs/docs/clouds/azure/plano-estudo-az-204',
@@ -135,6 +154,22 @@ export default [
                 component: ComponentCreator('/digital-docs/docs/clouds/azure/plano-estudo-dp-900', 'f57'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/digital-docs/docs/clouds/azure/servicos-banco-dados',
+                component: ComponentCreator('/digital-docs/docs/clouds/azure/servicos-banco-dados', 'b81'),
+                exact: true
+              },
+              {
+                path: '/digital-docs/docs/clouds/azure/servicos-computacao-armazenamento',
+                component: ComponentCreator('/digital-docs/docs/clouds/azure/servicos-computacao-armazenamento', '82e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/digital-docs/docs/clouds/azure/servicos-rede',
+                component: ComponentCreator('/digital-docs/docs/clouds/azure/servicos-rede', '512'),
+                exact: true
               },
               {
                 path: '/digital-docs/docs/java/jwt',

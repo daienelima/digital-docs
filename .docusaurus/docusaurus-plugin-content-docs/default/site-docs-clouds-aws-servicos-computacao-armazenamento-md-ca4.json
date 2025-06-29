@@ -1,0 +1,18 @@
+{
+  "id": "clouds/aws/servicos-computacao-armazenamento",
+  "title": "Serviços de Computação e Armazenamento na AWS",
+  "description": "Serviços de Computação na AWS",
+  "source": "@site/docs/clouds/aws/servicos-computacao-armazenamento.md",
+  "sourceDirName": "clouds/aws",
+  "slug": "/clouds/aws/servicos-computacao-armazenamento",
+  "permalink": "/digital-docs/docs/clouds/aws/servicos-computacao-armazenamento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "servicos-computacao-armazenamento",
+    "title": "Serviços de Computação e Armazenamento na AWS",
+    "sidebar_label": "Computação e Armazenamento"
+  }
+}

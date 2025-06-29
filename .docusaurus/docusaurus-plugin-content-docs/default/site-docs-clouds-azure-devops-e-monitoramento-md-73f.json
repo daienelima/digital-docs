@@ -1,0 +1,18 @@
+{
+  "id": "clouds/azure/devops-e-monitoramento",
+  "title": "DevOps e Monitoramento no Azure",
+  "description": "DevOps e Monitoramento no Azure",
+  "source": "@site/docs/clouds/azure/devops-e-monitoramento.md",
+  "sourceDirName": "clouds/azure",
+  "slug": "/clouds/azure/devops-e-monitoramento",
+  "permalink": "/digital-docs/docs/clouds/azure/devops-e-monitoramento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "devops-e-monitoramento",
+    "title": "DevOps e Monitoramento no Azure",
+    "sidebar_label": "DevOps e Monitoramento"
+  }
+}

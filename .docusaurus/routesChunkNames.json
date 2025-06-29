@@ -127,22 +127,26 @@
     ],
     "__props": "__props---digital-docs-blog-tags-inicio-6-d-9-72f"
   },
-  "/digital-docs/docs-f89": {
+  "/digital-docs/docs-81d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---digital-docs-docsaba-d4a"
     }
   },
-  "/digital-docs/docs-bad": {
+  "/digital-docs/docs-942": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---digital-docs-docs-4-eb-298"
   },
-  "/digital-docs/docs-d39": {
+  "/digital-docs/docs-27a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/digital-docs/docs/clouds/aws/cenarios-013": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---digital-docs-docs-clouds-aws-cenarios-752-84e"
+  },
+  "/digital-docs/docs/clouds/aws/devops-e-monitoramento-c3e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-aws-devops-e-monitoramentof-92-9fa"
   },
   "/digital-docs/docs/clouds/aws/introducao-aws-62d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -152,13 +156,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---digital-docs-docs-clouds-aws-plano-estudo-saa-c-039-e-9-74c"
   },
+  "/digital-docs/docs/clouds/aws/servicos-banco-dados-919": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-aws-servicos-banco-dados-316-7f4"
+  },
+  "/digital-docs/docs/clouds/aws/servicos-computacao-armazenamento-740": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-aws-servicos-computacao-armazenamentoca-4-882"
+  },
+  "/digital-docs/docs/clouds/aws/servicos-rede-85d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-aws-servicos-rede-4-f-0-a1c"
+  },
   "/digital-docs/docs/clouds/aws/vpc-2f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---digital-docs-docs-clouds-aws-vpc-81-a-e31"
   },
-  "/digital-docs/docs/clouds/azure/introducao-azure-334": {
+  "/digital-docs/docs/clouds/azure/devops-e-monitoramento-eee": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---digital-docs-docs-clouds-azure-introducao-azured-18-005"
+    "content": "content---digital-docs-docs-clouds-azure-devops-e-monitoramento-73-f-10f"
   },
   "/digital-docs/docs/clouds/azure/plano-estudo-az-204-206": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -171,6 +187,18 @@
   "/digital-docs/docs/clouds/azure/plano-estudo-dp-900-f57": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---digital-docs-docs-clouds-azure-plano-estudo-dp-900525-d20"
+  },
+  "/digital-docs/docs/clouds/azure/servicos-banco-dados-b81": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-azure-servicos-banco-dadosdce-8c1"
+  },
+  "/digital-docs/docs/clouds/azure/servicos-computacao-armazenamento-82e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-azure-servicos-computacao-armazenamento-3-b-1-158"
+  },
+  "/digital-docs/docs/clouds/azure/servicos-rede-512": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---digital-docs-docs-clouds-azure-servicos-redeffc-1a9"
   },
   "/digital-docs/docs/java/jwt-ef9": {
     "__comp": "__comp---theme-doc-item-178-a40",
